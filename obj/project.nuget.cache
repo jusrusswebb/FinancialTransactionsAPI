@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVA5qu+Hc20=",
+  "success": true,
+  "projectFilePath": "/Users/russgang/FinancialTransactionsAPI/FinancialTransactionsAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/russgang/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0-rc.1.24452.1/microsoft.aspnetcore.openapi.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "/Users/russgang/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
